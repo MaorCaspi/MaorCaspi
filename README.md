@@ -1,8 +1,11 @@
-### Hi there 👋
+### Howdy 
+
+<img src="https://github.com/eshlomo1/eshlomo1/blob/master/ES9-1.jpg">
+
+Hey my name is Maor, I'm a Computer Science student,  for more information check out my [Linkedin Profile](https://www.linkedin.com/in/maor-caspi/).
 
 <!--
-**MaorCaspi/MaorCaspi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**eshlomo1/eshlomo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
