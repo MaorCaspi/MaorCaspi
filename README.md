@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/MaorCaspi/MaorCaspi/blob/master/Maor.jpg">
+<img src="https://github.com/MaorCaspi/MaorCaspi/blob/master/MaorCaspi.jpg">
 
 ### Hey my name is Maor, I'm a Computer Science student,  for more information check out my [Linkedin Profile](https://www.linkedin.com/in/maor-caspi/).
 
