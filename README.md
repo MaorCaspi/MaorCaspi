@@ -1,8 +1,8 @@
-### Howdy 
+
 
 <img src="https://github.com/MaorCaspi/MaorCaspi/blob/master/Maor.jpg">
 
-Hey my name is Maor, I'm a Computer Science student,  for more information check out my [Linkedin Profile](https://www.linkedin.com/in/maor-caspi/).
+### Hey my name is Maor, I'm a Computer Science student,  for more information check out my [Linkedin Profile](https://www.linkedin.com/in/maor-caspi/).
 
 <!--
 **eshlomo1/eshlomo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
