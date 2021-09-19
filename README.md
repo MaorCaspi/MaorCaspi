@@ -2,6 +2,10 @@
 
 ### Hi! This is my GitHub page, welcome :)
 
+<div class="container">
+  <img src="https://github.com/MaorCaspi/MaorCaspi/blob/main/MaorCaspi.jpg" height='200' width='550' alt="gif"</img>
+</div>
+<br />
 
 <p align="left">
 <i>Contact Me </i>
