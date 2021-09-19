@@ -1,7 +1,5 @@
 # Welcome to My GitHub Page!  👋 👋
 
-### Hi! This is my GitHub page, welcome :)
-
 <div class="container">
   <img src="https://github.com/MaorCaspi/MaorCaspi/blob/main/%E2%80%8F%E2%80%8FMaor%20Caspi%20Logo.jpg" height='300' width='550' alt="gif"</img>
 </div>
