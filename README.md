@@ -8,7 +8,7 @@ For more information check out my [Linkedin Profile](https://www.linkedin.com/in
 <p align="left">
   <i> Contact Me </i>
   
-  (https://img.shields.io/badge/-DanitShagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maor-caspi/)](https://www.linkedin.com/in/maor-caspi/) 
+  [![Linkedin Badge](https://img.shields.io/badge/-DanitShagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/maor-caspi/)](https://www.linkedin.com/in/danit-shagan-62b671192/) 
    [![Gmail Badge](https://img.shields.io/badge/-danishagan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maorcaspi1996@gmail.com)](mailto:maorcaspi1996@gmail.com)
    
 </p>
