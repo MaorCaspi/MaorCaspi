@@ -1,7 +1,6 @@
 # Welcome to My GitHub Page!  👋 👋
 
 ### Hi! This is my GitHub page, welcome :)
-### My name is Maor Caspi
 
 
 <p align="left">
