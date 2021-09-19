@@ -1,7 +1,7 @@
 # Welcome to My GitHub Page!  👋 👋
 
-Hi! This is my GitHub page, welcome :)</br>
-My name is Maor Caspi</br>
+### Hi! This is my GitHub page, welcome :)</br>
+### My name is Maor Caspi</br>
 
 
 <p align="left">
